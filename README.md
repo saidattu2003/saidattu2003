@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @saidattu2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saidattu2003)](https://holopin.io/@saidattu2003)
+
 <!--
 **saidattu2003/saidattu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
